@@ -82,6 +82,4 @@
 </a>
 
 ### 🐍 Mi actividad diaria (GitHub Snake)
-![Snake animation](https://github.com/AngelCastillaSandoval/AngelCastillaSandoval/blob/output/github-contribution-grid-snake-dark.svg)
-
-
+![snake gif](https://github.com/AngelCastillaDev/AngelCastillaDev/blob/output/github-snake-dark.svg)
