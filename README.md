@@ -15,7 +15,8 @@
 - :thinking: Actualmente en búsqueda de `nuevas oportunidades` para crecer profesionalmente.
 
 <br>
-<h2>🌐 Redes y contacto</h2>
+
+## 🌐 Redes y contacto
 <div align="center">
 <div align="center">
 <a href="https://www.youtube.com/@AngelGabrielCastillaSandov-v6" target="_blank"><img src="https://img.shields.io/badge/-youtube-d71e18?style=for-the-badge&logo=youtube&logoColor=white" style="border-radius: 30px"></a> 
@@ -24,6 +25,15 @@
 [![Mail Badge](https://img.shields.io/badge/email-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:👽@gmail.com)](mailto:angel.castilla.dev@gmail.com)
 </div>
 
+## 📈 Mis Estadísticas
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AngelCastillaDev&bg_color=0d1117&color=02D9F7&line=02D9F7&point=f9fafa&area=true&hide_border=true)](https://github.com/AngelCastillaDev)
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=AngelCastillaDev&show_icons=true&count_private=true&hide_border=true&title_color=02D9F7&icon_color=02D9F7&text_color=c9d1d9&bg_color=0d1117" alt="Angel Castilla Dev github stats" /> 
+  
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelCastillaDev&layout=compact&hide_border=true&title_color=02D9F7&text_color=02D9F7&bg_color=0d1117" />
+</div> 
 
 ## 🛠️ Mis Habilidades Tecnologicas que conozco 👨🏻‍💻
 <code><img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" width="150px" height="75px"></code>
@@ -66,8 +76,12 @@
 
 <br><br>
 
+### 📊 Contador de visitas
+<a href="https://github.com/AngelCastillaDev">
+    <img src="https://komarev.com/ghpvc/?username=AngelCastillaDev&style=for-the-badge" alt="Contador de visitas"/>
+</a>
 
+### 🐍 Mi actividad diaria (GitHub Snake)
 ![Snake animation](https://github.com/AngelCastillaSandoval/AngelCastillaSandoval/blob/output/github-contribution-grid-snake-dark.svg)
-
 
 
