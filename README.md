@@ -66,7 +66,9 @@
 <code><img src="https://www.vectorlogo.zone/logos/eclipse/eclipse-ar21.svg" width="150px" height="75px"></code>
 
 <br><br>
-
+<a href="https://github.com/antonkomarev/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=bastndev&style=for-the-badge">
+</a>
 
 ![Snake animation](https://github.com/AngelCastillaDev/AngelCastillaDev/blob/output/github-contribution-grid-snake-dark.svg)
 
