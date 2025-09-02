@@ -65,6 +65,13 @@
 <code><img src="https://www.vectorlogo.zone/logos/eclipse/eclipse-ar21.svg" width="150px" height="75px"></code>
 
 <br><br>
+
+<div align="center">
+<br><p align="centre"><b>Total de Visitas en mi Perfil </b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/AngelCastillaDev/count.svg" /></p> 
+<br>
+</div>
+
 <a href="https://github.com/antonkomarev/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=bastndev&style=for-the-badge">
 </a>
