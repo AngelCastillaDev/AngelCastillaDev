@@ -19,7 +19,7 @@
 ## 🌐 Redes y contacto
 <div align="center">
 <div align="center">
-<a href="https://www.youtube.com/@AngelGabrielCastillaSandov-v6" target="_blank"><img src="https://img.shields.io/badge/-youtube-d71e18?style=for-the-badge&logo=youtube&logoColor=white" style="border-radius: 30px"></a> 
+<a href="https://www.youtube.com/@AngelGabrielCastillaSandov-v6b" target="_blank"><img src="https://img.shields.io/badge/-youtube-d71e18?style=for-the-badge&logo=youtube&logoColor=white" style="border-radius: 30px"></a> 
   
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angel-gabriel-castilla-sandoval-372b32376/?trk=opento_sprofile_topcard)
 [![Mail Badge](https://img.shields.io/badge/email-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:👽@gmail.com)](mailto:angel.castilla.dev@gmail.com)
